@@ -1,3 +1,5 @@
+this is a stripped down version for easy including in other projects
+
 License
 ---
 Licensed under the MIT License
