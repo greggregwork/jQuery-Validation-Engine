@@ -1,5 +1,14 @@
 this is a stripped down version for easy including in other projects
 
+Usage in a rails 3.1+ project
+---
+
+ * clone the repo into vendor/assets
+ * add `//= require js/jquery.validationEngine` and `//= require js/languages/jquery.validationEngine-en.js` to your application.js file.
+ * add ` *= require css/validationEngine.jquery.css` to your application.css file
+ * restart the app
+ * usage instructions here: https://github.com/posabsolute/jQuery-Validation-Engine
+
 License
 ---
 Licensed under the MIT License
